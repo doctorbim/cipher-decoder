@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cipher-decoder/static/css/main.821890d1.css",
-    "main.js": "/cipher-decoder/static/js/main.b9f13e3a.js",
+    "main.css": "/cipher-decoder/static/css/main.ff50c280.css",
+    "main.js": "/cipher-decoder/static/js/main.17ab3ba9.js",
     "index.html": "/cipher-decoder/index.html",
-    "main.821890d1.css.map": "/cipher-decoder/static/css/main.821890d1.css.map",
-    "main.b9f13e3a.js.map": "/cipher-decoder/static/js/main.b9f13e3a.js.map"
+    "main.ff50c280.css.map": "/cipher-decoder/static/css/main.ff50c280.css.map",
+    "main.17ab3ba9.js.map": "/cipher-decoder/static/js/main.17ab3ba9.js.map"
   },
   "entrypoints": [
-    "static/css/main.821890d1.css",
-    "static/js/main.b9f13e3a.js"
+    "static/css/main.ff50c280.css",
+    "static/js/main.17ab3ba9.js"
   ]
 }
