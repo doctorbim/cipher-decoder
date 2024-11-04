@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cipher-decoder/static/css/main.821890d1.css",
+    "main.js": "/cipher-decoder/static/js/main.cbb8ad4b.js",
+    "index.html": "/cipher-decoder/index.html",
+    "main.821890d1.css.map": "/cipher-decoder/static/css/main.821890d1.css.map",
+    "main.cbb8ad4b.js.map": "/cipher-decoder/static/js/main.cbb8ad4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.821890d1.css",
+    "static/js/main.cbb8ad4b.js"
+  ]
+}
